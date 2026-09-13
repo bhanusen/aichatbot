@@ -1,5 +1,7 @@
 # GenAI Chatbot (Llama 3 + Arize Phoenix)
 
+**Project Demo Video:** [Watch on YouTube](https://youtu.be/nOnCQNFxwK0)
+
 A powerful Generative AI chatbot built with Streamlit, leveraging Retrieval-Augmented Generation (RAG) to provide accurate answers based on user-uploaded documents. This project uses Groq's fast inference API for LLM responses and Arize Phoenix for comprehensive AI observability and evaluation.
 
 ## Features
