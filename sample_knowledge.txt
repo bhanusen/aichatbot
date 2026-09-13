@@ -1,0 +1,5 @@
+Large Language Models (LLMs) like Llama 3 are advanced artificial intelligence systems designed to understand and generate human-like text. They are trained on massive datasets and use transformer architectures.
+
+Retrieval-Augmented Generation (RAG) is a technique that enhances LLMs by connecting them to external knowledge databases. Instead of relying solely on the data they were trained on, an LLM using RAG can retrieve the most up-to-date and specific documents before answering a question. This drastically reduces hallucinations and improves accuracy.
+
+Arize Phoenix is a popular open-source AI observability tool. It is used to evaluate the performance of LLM applications, monitor traces of RAG pipelines, and debug issues in chunking or retrieval.
